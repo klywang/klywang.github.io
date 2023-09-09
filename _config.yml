@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Kelly Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD Candidate at the Univeristy of Michigan (Glotzer Group). I study the growth and structure of quasicrystals. In my free time, I enjoy drawing, writing, and working out."
+  #bio    : "PhD Candidate at the University of Michigan in the studying the growth and structure of quasicrystals. Throughout my time in Michigan, I've had the oppurtunity to explore various machine learning, signal processing, and image analysis techniques. I not only had the chance to learn Python, but to contribute to our group's open source packages! In my free time, I enjoy drawing, writing, and working out."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
