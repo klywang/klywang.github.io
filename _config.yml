@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website! 
   It's currently under construction.
   Check back later for posts about my research, artwork, and creative writing.
-#twitter_username: username
 github_username: klywang
 minimal_mistakes_skin: dirt
 search: true
@@ -63,30 +62,21 @@ author:
   bio    : "PhD Candidate at the Univeristy of Michigan (Glotzer Group). I study the growth and structure of quasicrystals. In my free time, I enjoy drawing, writing, and working out."
   #bio    : "PhD Candidate at the University of Michigan in the studying the growth and structure of quasicrystals. Throughout my time in Michigan, I've had the oppurtunity to explore various machine learning, signal processing, and image analysis techniques. I not only had the chance to learn Python, but to contribute to our group's open source packages! In my free time, I enjoy drawing, writing, and working out."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/klywang/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kelly-wang-b7979358/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/klywang/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kelly-wang-b7979358/"
 
 defaults:
   # _posts
@@ -107,6 +97,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+exclude:
+  - code
 
 category_archive:
   type: liquid
