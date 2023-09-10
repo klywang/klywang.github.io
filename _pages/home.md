@@ -19,7 +19,7 @@ feature_row:
       <!--These discovery of the beautiful materials challenged the prevaling paradigms of crystallography,-->
       <!--and ultimately our very definition of the word -->
       <!--[crystal](https://dictionary.iucr.org/Crystal).-->
-    url: "/docs/configuration/"
+    url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/art_thumb.png
@@ -38,7 +38,7 @@ feature_row:
       Join me as I learn about Fourier space and crystallography,
       or, maybe, just stop by to read a piece of creative writing
       or my own journey with world building and writing.
-    url: "/docs/license/"
+    url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Read more"      
 ---
